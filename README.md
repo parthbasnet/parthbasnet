@@ -6,7 +6,7 @@
   - [Azure Honeypot Deployment with Threat Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h3> Certifications</h3>
+<h3>📝 Certifications</h3>
 
 -Microsoft Certified: Security, Compliance, and Identity Fundamentals(SC-900)
 
