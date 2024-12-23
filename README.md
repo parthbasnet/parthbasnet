@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Cloud Security (Azure)</b>
+- <b>Cloud Security</b>
   - [Azure Honeypot Deployment with Threat Analysis](https://github.com/parthbasnet/AzureHoneypotProject)
 
 
